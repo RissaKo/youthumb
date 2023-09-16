@@ -118,5 +118,36 @@ input[type="text"] + button {
 	border-radius:1px;
 	border-color:#363636;
 	text-align: center;        }
+ @media (max-width: 768px) {
+body {
+      font-size: 16px; /* Example: Increase font size for better readability on small screens */
+    }
+ .styled-input {
+      width: 100%;
+ }
+  }
+img {
+  max-width: 100%;
+  height: auto;
+}
+  @media (max-width: 768px) {
+    /* Adjust styles for smaller screens */
+    body {
+      font-size: 16px; /* Example: Increase font size for better readability on small screens */
+    }
+    .styled-input {
+      width: 100%; /* Make the input field full-width on smaller screens */
+      /* Adjust other styles for smaller screens */
+    }
+    /* Add more styles as needed */
 
+    /* Styles for mobile navigation menu (if applicable) */
+    /* Example: Display a mobile menu button */
+    header a:not(:first-child) {
+      display: none;
+    }
+    header a:first-child {
+      display: block;
+    }
+  }
   

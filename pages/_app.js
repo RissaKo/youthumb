@@ -16,6 +16,7 @@ function MyApp({ Component, pageProps }) {
           site_name: "Youtube Thumbnail Downloader - Get Youtube Thumbnail From Youtube",
         }}
       />
+
       <Component {...pageProps} />
     </Fragment>
   );

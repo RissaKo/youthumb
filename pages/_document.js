@@ -13,6 +13,9 @@ class MyDocument extends Document {
             name="keywords"
             content="Get Thumbnail From Youtube, YouTube thumbnail grabber, YouTube thumbnail downloader, YouTube video thumbnails"
           />
+          <meta 
+           name="viewport"
+           content="width=device-width, initial-scale=1.0"/>
           <meta
             name="author"
             content="Get Thumbnail From Youtube"
@@ -31,7 +34,7 @@ class MyDocument extends Document {
           />
           <meta
             name="og:description"
-            content="Get Thumbnail and Save YT Video Thumbnails.A Tool that can Get free thumbnail image of any youtube videos in Full HD(1080), HD (720), SD, and also in small size. it's currently supported formats: YouTube (HD, HQ, 1080p, 4K) videos"
+            content="Get Thumbnail for Youtube and Save YT Video Thumbnails.A Tool that can Get free thumbnail image of any youtube videos in Full HD(1080), HD (720), SD, and also in small size. it's currently supported formats: YouTube (HD, HQ, 1080p, 4K) videos"
           />
           <meta
             name="og:image"
@@ -55,7 +58,8 @@ class MyDocument extends Document {
             href="/favicon/favicon-16x16.png"
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
-        </Head>
+
+      </Head>
         <body>
  <header>
         <a href="#">Home</a>
@@ -100,14 +104,17 @@ It's important to note that not all YouTube thumbnails are available for downloa
           </p>
           <p>
             <h2>Is reusing YouTube thumbnails are SEO friendly?</h2><br />
-            Nope it's not, in short answer it's not seo friendly because almost all thumbnails which are on YouTube are indexed by Google. So which one is unique and which one is duplicate google know it. <br /><br />So it's not SEO friendly as you know. But you can do some stuff on that thumbnail I mean getting some unique effects using photoshop or any other software that can make your thumbnail unique again so that can be reused and make that seo friendly again.<br /><br />
+            Nope it's not, in short answer it's not seo friendly because almost all thumbnails which are on YouTube are indexed by Google. So which one is unique and which one is duplicate google know it. <br /><br />So it's not SEO friendly as you know. But you can do some stuff on that thumbnail I mean getting some unique effects using photoshop or any other software that can make your thumbnail unique again so that can be reused and make that seo friendly again. <img  src="//sstatic1.histats.com/0.gif?4803106&101"></img>
+<br /><br />  
 <h6><b>getthumbnailfromyoutube.com</b>it's a Free Tool to <b><a href="https://www.getthumbnailfromyoutube.com">Get Thumbnail From Youtube</a></b> thumbnail images of all quality for free. This application let you download thumbnails of all quality.</h6>
           </p>
+
    <footer>
        <a href="#YouTube_thumbnail_downloader">Get Thumbnail From Youtube downloader Website</a> © 2023-2024 Copyright Reserved.
            </footer>
-        </body>
+ </body>
        </Html>
+
     );
   }
 }
