@@ -58,15 +58,14 @@ class MyDocument extends Document {
             href="/favicon/favicon-16x16.png"
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
-
+<meta name="google-site-verification" content="1AFAIu7scmUiU4CmaiPLhBNkX6EvqFMv6EUj6pyCcGY" />
       </Head>
         <body>
  <header>
         <a href="#">Home</a>
-        <a href="#">About Us</a>
         <a href="#YouTube_thumbnail_downloader">YouTube thumbnail downloader</a>
-        <a href="#">Get Thumbnail From Youtube</a>
-        <a href="mailto:admin@getthumbnailfromyoutube.com">Contact Us</a>
+        <a href="#Get_Thumbnail_from_Youtube">Get Thumbnail From Youtube</a>
+        <a href="mailto:yogalabsapp@gmail.com">Contact Us</a>
  </header>
 
           <Main />

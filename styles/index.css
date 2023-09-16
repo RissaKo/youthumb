@@ -150,4 +150,60 @@ img {
       display: block;
     }
   }
+    .mobile-menu {
+      display: none; /* Hide the mobile menu by default */
+    }
+
+    .menu-button {
+      display: block;
+      padding: 10px;
+      background-color: #007bff;
+      color: #fff;
+      text-align: center;
+      cursor: pointer;
+    }
+
+    /* Media query for mobile screens */
+    @media (max-width: 768px) {
+      .mobile-menu {
+        display: block; /* Show the mobile menu on small screens */
+      }
+
+      .menu {
+        display: none; /* Hide the desktop menu on small screens */
+      }
+
+      .menu-button {
+        display: block; /* Show the menu button on small screens */
+      }
+    }
+ /* Mobile menu styles */
+            .mobile-menu {
+              display: none; /* Hide the mobile menu by default */
+            }
+
+            .menu-button {
+              display: block;
+              padding: 10px;
+              background-color: #007bff;
+              color: #fff;
+              text-align: center;
+              cursor: pointer;
+            }
+
+            /* Media query for mobile screens */
+            @media (max-width: 768px) {
+              .mobile-menu {
+                display: block; /* Show the mobile menu on small screens */
+              }
+
+              .menu {
+                display: none; /* Hide the desktop menu on small screens */
+              }
+
+              .menu-button {
+                display: block; /* Show the menu button on small screens */
+              }
+            }
+
   
