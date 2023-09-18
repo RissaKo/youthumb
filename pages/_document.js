@@ -6,10 +6,6 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <meta
-            name="description"
-            content="Get Thumbnail From Youtube - Save YT Video Thumbnails. Grab free thumbnail image of any youtube videos in Full HD(1080), HD (720), SD, and also in small size. it's currently supported formats: YouTube (HD, HQ, 1080p, 4K) videos"
-          />
-          <meta
             name="keywords"
             content="Get Thumbnail From Youtube, YouTube thumbnail grabber, YouTube thumbnail downloader, YouTube video thumbnails"
           />
