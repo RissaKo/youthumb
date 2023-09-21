@@ -54,7 +54,7 @@ const Index = () => {
         </button></center>
       </div>
  <p className="text-gray-600">
-    Quickly and effortlessly Download YouTube thumbnails with our user-friendly tool. You can Get thumbnail From Youtube easily, whether you need to get a YouTube thumbnail for your video or simply want to grab a YouTube video's thumbnail for any purpose. Simplify the process of Youtube thumbnail downloader with our efficient YouTube grab thumbnail service. </p>
+    Download YouTube thumbnails with our thumbnail grabber Tool. You can Get thumbnail From Youtube easily, whether you need to get a YouTube thumbnail for your video or simply want to grab a YouTube videos thumbnail for any purpose.</p>
       {thumbnailOptions.length > 0 && (
         <div className="mt-8">
           <h2 className="text-xl font-semibold mb-4">Thumbnail Options</h2>
