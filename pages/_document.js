@@ -67,7 +67,8 @@ class MyDocument extends Document {
           <Main />
           <NextScript />
 <center><h2> Youtube Grabber : Get Thumbnail from Youtube Videos.</h2></center> 
-<center><p><img src="/youtube-thumbnail-grabber.png" alt="Get Thumbnail from Youtube" width="800" height="400" /></p></center>
+<center><p><center><h2> Youtube Thumbnail Grabber.</h2></center> 
+<center><p><img src='/youtube-thumbnail-grabber.png' alt='Get Thumbnail from Youtube, a Youtube Thumbnail Downloader tool' width="800" height="400" /></p></center>
 
           <p>
             <h2>What is the use of this YouTube Thumbnail Grabber website?</h2><br />
