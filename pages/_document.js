@@ -67,7 +67,13 @@ class MyDocument extends Document {
           <Main />
           <NextScript />
 <center><h2> Youtube Thumbnail Grabber.</h2></center> 
-<center><p><img src='/youtube-thumbnail-grabber.png' alt='Get Thumbnail from Youtube, a Youtube Thumbnail Downloader tool' width="800" height="400" /></p></center>
+<center><p><img
+  src="/youtube-thumbnail-grabber.png"
+  alt="YouTube Thumbnail Grabber - Get Thumbnail from YouTube, a YouTube Thumbnail Downloader tool"
+  width="800"
+  height="400"
+/>
+</p></center>
           <p>
             <h2>What is the use of this YouTube Thumbnail Grabber website?</h2><br />
             YouTube thumbnails are the first thing viewers see when they come across a video, so they play a crucial role in attracting viewers and increasing click-through rates. If you're looking to download YouTube thumbnails for your own use, there are a number of tools available online. Some of these tools are free, while others require a subscription.<br />
