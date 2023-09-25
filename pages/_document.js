@@ -55,7 +55,7 @@ class MyDocument extends Document {
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
 <meta name="google-site-verification" content="1AFAIu7scmUiU4CmaiPLhBNkX6EvqFMv6EUj6pyCcGY" />
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9MJ421G2T3"></script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-9MJ421G2T3"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -63,7 +63,7 @@ class MyDocument extends Document {
 
   gtag('config', 'G-9MJ421G2T3');
 </script>
-      </Head>
+  </Head>
         <body>
  <header>
         <a href="#">Home</a>
