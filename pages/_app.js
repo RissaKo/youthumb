@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
     <Fragment>
       <DefaultSeo
         title="Get Youtube Thumbnail From youtube : Youtube thumbnail downloader tool"
-        description="Download YouTube thumbnails with our thumbnail grabber Tool. You can Get thumbnail From Youtube easily, whether you need to get a YouTube thumbnail for your video or simply want to grab a YouTube videos thumbnail for any purpose."
+        description="Download Youtube Thumbnail in high-quality from YouTube videos."
         canonical="https://www.getthumbnailfromyoutube.com"
         openGraph={{
           url: "https://www.getthumbnailfromyoutube.com",
