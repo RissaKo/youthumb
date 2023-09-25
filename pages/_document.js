@@ -30,7 +30,7 @@ class MyDocument extends Document {
           />
           <meta
             name="og:description"
-            content="youtube thumbnail downloader Get Thumbnail for Youtube and Save YT Video Thumbnails.A Tool that can Get free thumbnail image of any youtube videos in Full HD(1080), HD (720), SD, and also in small size. it's currently supported formats: YouTube (HD, HQ, 1080p, 4K) videos"
+            content="Download YouTube thumbnails with our thumbnail grabber Tool. You can Get thumbnail From Youtube easily, whether you need to get a YouTube thumbnail for your video or simply want to grab a YouTube videos thumbnail for any purpose."
           />
           <meta
             name="og:image"
