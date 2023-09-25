@@ -94,16 +94,16 @@ It's important to note that not all YouTube thumbnails are available for downloa
             Of course it's 100% legal you can <b><i>get thumbnails from YouTube</i></b> videos thumbnails but as you know thumbnail and video are copyrighted product you should take author permissions 1st in order to reuse that.
           </p>
           <p>
-            <h2>Compatibility of this YouTube thumbnail grabber website</h2><br />
+            <h3>Compatibility of this YouTube thumbnail grabber website</h3><br />
             This <b>YouTube thumbnail downloader</b> website is going to work well in all devices except iPhone, because iPhone doesn't allow images to be saved in iPhone. But if you using jailbroken iphone then there is no any problem. on the other hand is going to work fine in almost all kinds Android devices and laptop or desktop system.
           </p>
           <p>
-            <h2>Is there any Copyright risk on YouTube Thumbnails?</h2><br />
+            <h4>Is there any Copyright risk on YouTube Thumbnails?</h4><br />
             Whatever youtube screenshot you are downloading a copyright of respective on owner of that videos. If you want to use it in your work then you should ask for permission.<br /><br />
             Especially if you are reusing on YouTube then it's can create problem but if your plan is outside of YouTube. like use on website for creating logos or any Photoshop types of stuff then there is no any problem. You hardly receive any dmca complaint about related to that particular Youtube thumbnail.
           </p>
           <p>
-            <h2>Is reusing YouTube thumbnails are SEO friendly?</h2><br />
+            <h5>Is reusing YouTube thumbnails are SEO friendly?</h5><br />
             Nope it's not, in short answer it's not seo friendly because almost all thumbnails which are on <a href="https://www.youtube.com">Youtube</a> are indexed by Google. So which one is unique and which one is duplicate google know it. <br /><br />So it's not SEO friendly as you know. But you can do some stuff on that thumbnail I mean getting some unique effects using photoshop or any other software that can make your thumbnail unique again so that can be reused and make that seo friendly again. <img  src="//sstatic1.histats.com/0.gif?4803106&101"></img>
 <br /><br />  
 <h6><b>getthumbnailfromyoutube.com</b>it's a Free Tool to <b><a href="https://www.getthumbnailfromyoutube.com">Get Thumbnail From Youtube</a></b> thumbnail images of all quality for free. This application let you download thumbnails of all quality.</h6>
