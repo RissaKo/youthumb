@@ -55,6 +55,7 @@ class MyDocument extends Document {
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
 <meta name="google-site-verification" content="1AFAIu7scmUiU4CmaiPLhBNkX6EvqFMv6EUj6pyCcGY" />
+<meta name="yandex-verification" content="5574705ea83abe40" />
   </Head>
         <body>
  <header>
