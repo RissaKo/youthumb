@@ -5,6 +5,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
+                    <meta name="yandex-verification" content="5574705ea83abe40" />
           <meta
             name="keywords"
             content="youtube thumbnail downloader,Get Thumbnail From Youtube, YouTube thumbnail grabber, YouTube thumbnail downloader, YouTube video thumbnails"
@@ -54,7 +55,6 @@ class MyDocument extends Document {
             href="/favicon/favicon-16x16.png"
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
-              <meta name="yandex-verification" content="5574705ea83abe40" />
 <meta name="google-site-verification" content="1AFAIu7scmUiU4CmaiPLhBNkX6EvqFMv6EUj6pyCcGY" />
   </Head>
         <body>
