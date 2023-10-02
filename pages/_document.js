@@ -35,6 +35,7 @@ class MyDocument extends Document {
           />
           <meta name="google-site-verification" content="1AFAIu7scmUiU4CmaiPLhBNkX6EvqFMv6EUj6pyCcGY" />
           <meta name="yandex-verification" content="5574705ea83abe40" />
+<meta name="yandex-verification" content="3a6fa52eb38b5010" />
 
           <link
             rel="apple-touch-icon"
